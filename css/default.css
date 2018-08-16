@@ -1,0 +1,38 @@
+body{
+	background-image: url(../img/menu1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+header{
+	width: 60%;
+	min-height: 0px;
+	border: 4px double #000;
+	background-image: url(../img/menu1.png);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: top center;
+
+}
+main{
+	width: 80%;
+	min-height: 350px;
+	border: 4px double #000;
+	margin: 0 auto;
+	background:white;
+
+}
+footer{
+	border: 1px dashed #000;
+}
+
+p{
+	width: 60%;
+	margin: 20px auto;
+	padding: 10px;
+	border: 1px solid #000;
+	border-top: 15px solid red;
+}
+.clear{
+	clear: both;
+}
